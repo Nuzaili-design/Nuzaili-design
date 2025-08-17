@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **abdulaziz.alnuzaili.28@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/c/f08b61704080f03a/Eb5FH8AeUaRJs8e3ZzUXkXAB0cB6fKd6oHEe0VfG0WRc5Q?e=dJ7er8](https://1drv.ms/b/c/f08b61704080f03a/Eb5FH8AeUaRJs8e3ZzUXkXAB0cB6fKd6oHEe0VfG0WRc5Q?e=dJ7er8)
+- 📄 Know about my experiences https://1drv.ms/b/c/f08b61704080f03a/EfDsFkuGDo5OtEqdZbIKcgABOj-LPzXm5avXW136yGh3SQ?e=IYQlLd
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
