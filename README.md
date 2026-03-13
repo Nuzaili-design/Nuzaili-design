@@ -7,20 +7,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuzaili-design" alt="nuzaili-design" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+-  I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **Data Analysis**
+-  I’m looking to collaborate on **Data Analysis**
 
-- 🤝 I’m looking for help with **Data Science**
+-  I’m looking for help with **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://nuzaili-design.github.io/Portfolio/](https://nuzaili-design.github.io/Portfolio/)
+-  All of my projects are available at [https://nuzaili-design.github.io/Portfolio/](https://nuzaili-design.github.io/Portfolio/)
 
-- 💬 Ask me about **Software Development & Data Analysis**
+-  Ask me about **Software Development & Data Analysis**
 
-- 📫 How to reach me **abdulaziz.alnuzaili.28@gmail.com**
+-  How to reach me **abdulaziz.alnuzaili.28@gmail.com**
 
-- 📄 Know about my experiences https://1drv.ms/b/c/f08b61704080f03a/EfDsFkuGDo5OtEqdZbIKcgABOj-LPzXm5avXW136yGh3SQ?e=IYQlLd
-- 📄 Know about my experiences [View CV](https://github.com/nuzaili-design/Nuzaili-design/blob/main/Abdulaziz%20Ahmed.pdf)
 - 📄 Know about my experiences [View CV](https://nuzaili-design.github.io/Portfolio/assets/Abdulaziz%20Ahmed.pdf)
 
 <h3 align="left">Connect with me:</h3>
