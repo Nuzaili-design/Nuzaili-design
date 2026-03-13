@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [View CV](https://nuzaili-design.github.io/Portfolio/assets/Abdulaziz%20Ahmed.pdf)
 
-[![View CV](https://img.shields.io/badge/View-CV-black?style=for-the-badge&logo=adobeacrobatreader)](https://nuzaili-design.github.io/Portfolio/assets/Abdulaziz%20Ahmed.pdf)
+  [![CV](https://img.shields.io/badge/Abdulaziz%20Alnuzaili-CV-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://nuzaili-design.github.io/Portfolio/assets/Abdulaziz%20Ahmed.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
