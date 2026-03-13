@@ -18,7 +18,7 @@
 -  **How to reach me:**
 
    [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://nuzaili-design.github.io/Portfolio/)
-   [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](abdulaziz.alnuzaili.28@gmail.com)
+   [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:abdulaziz.alnuzaili.28@gmail.com)
    [![CV](https://img.shields.io/badge/Abdulaziz%20Alnuzaili-CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://nuzaili-design.github.io/Portfolio/assets/Abdulaziz%20Ahmed.pdf)
 
 <h3 align="left">My LinkedIn:</h3>
