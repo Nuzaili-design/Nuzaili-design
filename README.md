@@ -20,7 +20,7 @@
 -  How to reach me **abdulaziz.alnuzaili.28@gmail.com**
 
 - 📄 Know about my experiences [View CV](https://nuzaili-design.github.io/Portfolio/assets/Abdulaziz%20Ahmed.pdf)
-- [![CV](https://img.shields.io/badge/CV-Abdulaziz%20Alnuzaili-black?style=for-the-badge&logo=adobeacrobatreader)]([https://nuzaili-design.github.io/Portfolio/assets/Abdulaziz%20Ahmed.pdf](https://nuzaili-design.github.io/Portfolio/assets/Abdulaziz%20Ahmed.pdf))
+- [![CV](https://img.shields.io/badge/assets/Abdulaziz%20Ahmed.pdf-black?style=for-the-badge&logo=adobeacrobatreader)]([https://nuzaili-design.github.io/Portfolio/assets/Abdulaziz%20Ahmed.pdf](https://nuzaili-design.github.io/Portfolio/assets/Abdulaziz%20Ahmed.pdf))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
