@@ -14,13 +14,8 @@
 
 -  Ask me about **Software Development & Data Analysis**
 
--  All of my projects are available at  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://nuzaili-design.github.io/Portfolio/)  
-https://nuzaili-design.github.io/Portfolio/
-
--  How to reach me  
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:abdulaziz.alnuzaili.28@gmail.com)  
-**abdulaziz.alnuzaili.28@gmail.com**
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://nuzaili-design.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:abdulaziz.alnuzaili.28@gmail.com)
 
 
 [![CV](https://img.shields.io/badge/Abdulaziz%20Alnuzaili-CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://nuzaili-design.github.io/Portfolio/assets/Abdulaziz%20Ahmed.pdf)
