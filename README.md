@@ -13,14 +13,15 @@
 -  I’m looking for help with **Data Science**
 
 -  Ask me about **Software Development & Data Analysis**
+
   
--  How to reach me:
+-  **How to reach me**:
 
    [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://nuzaili-design.github.io/Portfolio/)
    [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:abdulaziz.alnuzaili.28@gmail.com)
    [![CV](https://img.shields.io/badge/Abdulaziz%20Alnuzaili-CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://nuzaili-design.github.io/Portfolio/assets/Abdulaziz%20Ahmed.pdf)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My LinkedIn:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdulazizalnuzaili/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdulazizalnuzaili/" height="30" width="40" /></a>
 </p>
