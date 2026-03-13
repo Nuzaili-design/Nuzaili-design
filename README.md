@@ -21,6 +21,7 @@
 
 - 📄 Know about my experiences https://1drv.ms/b/c/f08b61704080f03a/EfDsFkuGDo5OtEqdZbIKcgABOj-LPzXm5avXW136yGh3SQ?e=IYQlLd
 - 📄 Know about my experiences [View CV](https://github.com/nuzaili-design/Nuzaili-design/blob/main/Abdulaziz%20Ahmed.pdf)
+- 📄 Know about my experiences [View CV](https://nuzaili-design.github.io/Portfolio/Abdulaziz%20Ahmed.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
