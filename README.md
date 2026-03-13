@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuzaili-design&label=Profile%20views&color=0e75b6&style=flat" alt="nuzaili-design" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuzaili-design" alt="nuzaili-design" /></a> </p>
 
 -  I’m currently learning **Python**
 
@@ -19,9 +18,8 @@
 
 -  How to reach me **abdulaziz.alnuzaili.28@gmail.com**
 
-- 📄 Know about my experiences [View CV](https://nuzaili-design.github.io/Portfolio/assets/Abdulaziz%20Ahmed.pdf)
 
-  [![CV](https://img.shields.io/badge/Abdulaziz%20Alnuzaili-CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://nuzaili-design.github.io/Portfolio/assets/Abdulaziz%20Ahmed.pdf)
+[![CV](https://img.shields.io/badge/Abdulaziz%20Alnuzaili-CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://nuzaili-design.github.io/Portfolio/assets/Abdulaziz%20Ahmed.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
