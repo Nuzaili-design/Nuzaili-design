@@ -15,7 +15,7 @@
 -  Ask me about **Software Development & Data Analysis**
 
   
--  **How to reach me**:
+-  **How to reach me:**
 
    [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://nuzaili-design.github.io/Portfolio/)
    [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:abdulaziz.alnuzaili.28@gmail.com)
